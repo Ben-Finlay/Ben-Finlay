@@ -9,12 +9,12 @@ I'm a newly minted Web Dev, graduating from [Lighthouse Labs](https://www.lighth
 
 Please feel free to reach out to me for collaborations, projects or work!
 
-## Github Preview:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-finlay&show_icons=true&theme=aura_dark)]([https://github.com/ben-finlay])
+## Github Overview:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-finlay&show_icons=true&theme=merko&count_private=true)]([https://github.com/ben-finlay])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyurika&layout=compact&theme=aura_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ben-finlay))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyurika&layout=compact&theme=merko)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ben-finlay))
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-finlay&theme=monokai-metallian)]([https://github.com/ben-finlay])
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-finlay&theme=merko)]([https://github.com/ben-finlay])
 
 <br/>
 
