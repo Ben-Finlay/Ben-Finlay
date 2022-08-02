@@ -38,7 +38,6 @@ Please feel free to reach out to me for collaborations, projects or work!
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="60px" height="60px" ></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="60px" height="60px" ></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="60px" height="60px" ></a>
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="60px" height="60px" ></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="60px" height="60px" ></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="60px" height="60px" ></a>
 <a  href="https://mochajs.org/" title="Mocha" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"   width="60px" height="60px"  />
