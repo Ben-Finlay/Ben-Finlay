@@ -4,6 +4,7 @@
 
 
 # Ben Finlay
+<img src="https://www.codewars.com/users/Ben-Finlay/badges/micro">
 
 I'm a newly minted Web Dev, graduating from [Lighthouse Labs](https://www.lighthouselabs.ca/) bootcamp.  I have a background in Electrical Engineering technology, and have always enjoyed the problem solving that came along with that work.  I am a life time learner and am always looking for new challenges.  
 
@@ -21,12 +22,6 @@ Please feel free to reach out to me for collaborations, projects, or work!
 <span style="opacity: 70%; font-size: 12px;"><em> Credit: [Anurag Hazra](https://github.com/anuraghazra)</em> </span>
 
 </br>
-
-### Code Wars:
-
-<img src="https://www.codewars.com/users/Ben-Finlay/badges/large">
-</br>
-
 
 ## Tech Stack:
 #### Core competencies
