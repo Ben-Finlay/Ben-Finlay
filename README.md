@@ -22,6 +22,8 @@ Please feel free to reach out to me for collaborations, projects, or work!
 
 </br>
 
+### Code Wars:
+
 <img src="https://www.codewars.com/users/Ben-Finlay/badges/large">
 </br>
 
