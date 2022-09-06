@@ -22,8 +22,7 @@ Please feel free to reach out to me for collaborations, projects, or work!
 
 </br>
 
-<br/>
-[![Code Wars](https://www.codewars.com/users/Ben-Finlay/badges/micro)]
+[Code Wars](https://www.codewars.com/users/Ben-Finlay/badges/micro)
 </br>
 
 
